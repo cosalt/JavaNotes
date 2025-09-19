@@ -5,7 +5,7 @@ Here I document and note take everything I learn day by day, from my **first pro
 
 ---
 
-## 📊 Progress Tracker
+### 📊 Progress Tracker
 
 ### 🔥 Commit Activity
 ![Repo Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cosalt&repo=JavaNotes&from=2025-09-17&theme=github)
